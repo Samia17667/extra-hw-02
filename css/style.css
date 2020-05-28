@@ -1,0 +1,117 @@
+	* {
+	    margin: 0;
+	    padding: 0;
+	}
+
+	/*Header Start Here*/
+	.header {
+	    width: 100%;
+	    height: 590px;
+	}
+
+	.headerLeft {
+	    width: 70%;
+	    height: 100%;
+	    float: left;
+	}
+
+	.headerTop_Cont {
+	    width: 100%;
+	    height: 60%;
+	}
+
+	.headerLeftContent {
+	    width: 50%;
+	    height: 100%;
+	    float: left;
+	}
+
+	.headerLeft_top {
+	    width: 100%;
+	    height: 60%;
+	    background-color: #ED1B24;
+	}
+
+	.headerLeftEnd {
+	    width: 100%;
+	    height: 40%;
+	    background-color: black;
+	}
+
+	.headerRight_cont {
+	    width: 50%;
+	    height: 100%;
+	    background-color: #FF7F26;
+	    float: left;
+	}
+
+	.headerLeftFooter {
+	    width: 100%;
+	    height: 40%;
+	}
+
+	.headerLeftFoot_cont {
+	    width: 80%;
+	    height: 100%;
+	    background-color: #1F650C;
+	    float: left;
+	}
+
+	.headerLeftFoot_mid {
+	    width: 20%;
+	    height: 100%;
+	    background-color: #A349A3;
+	    float: left;
+	}
+
+	.headerRight {
+	    width: 30%;
+	    height: 100%;
+	    float: left;
+	}
+
+	.headerRightUp {
+	    width: 100%;
+	    height: 10%;
+	    background-color: #B5E51D;
+	}
+
+	.headerRight_Body {
+	    width: 100%;
+	    height: 40%;
+	    background-color: #C708F6;
+	}
+
+	.headerRight_mid {
+	    width: 100%;
+	    height: 40%;
+	    background-color: #7092BF;
+	}
+
+	.headerRight_foot {
+	    width: 100%;
+	    height: 10%;
+	    background-color: #3436A5;
+	}
+
+	/*Header End Here*/
+	/*Footer Start Here*/
+	.footer {
+	    width: 100%;
+	    height: 70px;
+	    background-color: brown;
+	}
+
+	.footer_left {
+	    width: 10%;
+	    height: 100%;
+	    background-color: #650C0E;
+	    float: left;
+	}
+
+	.footer_right {
+	    width: 90%;
+	    height: 100%;
+	    background-color: #B97A57;
+	    float: left;
+	}
